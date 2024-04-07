@@ -1,0 +1,16 @@
+.input-form {
+	display: flex;
+}
+.input-form__label {
+	margin-right: 10px;
+	width: 150px;
+}
+.input-form__input {
+width: 100%;
+}
+.input-form__error {
+	display: block;
+	font-size: 12px;
+	transition: 0.5s;
+	width: 200px;
+}
